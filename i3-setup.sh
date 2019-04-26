@@ -35,6 +35,6 @@ sudo make install
 cd
 
 sudo apt install -y tizonia
-
+sudo apt install -y i3lock
 
 
