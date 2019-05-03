@@ -7,5 +7,6 @@ cp ~/Downloads/lockscreen.png ~/i3backup/images/lockscreen.png
 cp ~/Downloads/tokyo-skyline.png ~/i3backup/images/tokyo-skyline.png
 cp ~/.config/compton.conf ~/i3backup/compton.conf
 cp ~/.Xdefaults ~/i3backup/.Xdefaults
+cp ~/.bashrc	~/i3backup/.bashrc
 
 
