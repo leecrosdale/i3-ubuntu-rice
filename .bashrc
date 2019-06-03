@@ -170,6 +170,8 @@ alias myclir='mycli -u root -proot'
 alias tiz='tizonia --soundcloud-playlists'
 alias programming='tizonia --soundcloud-playlists programming'
 alias work='cd /var/www/'
+alias gd='git checkout develop'
+
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
