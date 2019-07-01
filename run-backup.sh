@@ -9,5 +9,6 @@ cp ~/.config/compton.conf ~/i3backup/compton.conf
 cp ~/.Xdefaults ~/i3backup/.Xdefaults
 cp ~/.bashrc	~/i3backup/.bashrc
 cp ~/.zshrc	~/i3backup/.zshrc
+cp ~/.aliases   ~/i3backup/.aliases
 
 
