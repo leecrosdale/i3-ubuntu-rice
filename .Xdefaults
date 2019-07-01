@@ -14,8 +14,7 @@ URxvt.depth:           32
 !! URxvt.inheritPixmap: true
 
 !! Fonts
-URxvt.font:        xft:mononoki:pixelsize=13:antialias=true,xft:monospace
-URxvt.boldFont:    xft:mononoki:pixelsize=13:weight=bold:antialias=true,xft:monospace
+URxvt.font:        xft:mononoki:pixelsize=14 for Powerline:size=8,xft:mononoki
 URxvt.letterSpace: -1
 
 !! Larger history limit
